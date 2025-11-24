@@ -1,0 +1,108 @@
+#background{
+  background-color:darkgreen ;
+  height:50px;
+}
+
+.aboutus{
+  margin-left: 1100px;
+  margin-top: -60px;
+  color: black;
+
+}
+
+.my-website{
+color: aliceblue;
+margin-left: 10px;
+font-size: 36px;
+margin-top:30px;
+
+}
+
+.image {
+  width: 100%;     
+  height: auto;    
+}
+.overlay-text{
+position: absolute;
+    top: 90%;
+    left: 10%;
+    font-size: 100px;
+    padding: 20px 40px;   
+    
+    color:darkgreen;
+     
+}
+
+.overlay-text2{
+position: absolute;
+   margin-top: -1000px;
+    margin-left:550px;
+    
+       
+    
+    
+
+}
+.footer{
+  background-color:darkgreen;
+  text-align:center;
+  
+  padding: 20px 0;
+height: 200px;
+width:auto;
+
+}
+.contact-footer{
+margin-left:450px;
+
+
+position: absolute;
+
+margin-bottom:-10px;
+ color:white;
+
+}
+.colored-box{
+font-size: 24px;
+background-color:darkgreen;
+}
+.contact-box{
+
+background-color: darkgreen;
+
+height: 250px;
+
+
+}
+.contact{
+align:center;
+margin-left:550px;
+font-size:42px;
+}
+.logo{
+
+margin-left:600px;
+
+
+
+}
+.product-detail{
+  margin-left:500px;
+  
+}
+.contact-details{
+
+
+margin-left:90px;
+
+}
+
+
+
+.details{
+margin-left:525px;
+
+font-size: 18px;
+
+
+}
